@@ -1,0 +1,8 @@
+title: Drwdal.GitHub.io
+description: not a 404 page, Isn't that nice?
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
